@@ -38,13 +38,16 @@
 
 <table border="0">
   <tr>
-    <td width="120" valign="center">
-      <img src="https://images.credly.com/size/220x220/images/2d84a428-9078-49b6-a804-13c15383d0ad/image.png" width="100" alt="AWS re/Start Graduate Badge" />
+    <td width="150" align="center" valign="center">
+      <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/2d84a428-9078-49b6-a804-13c15383d0ad/image.png" width="120" alt="AWS re/Start Graduate Badge" />
+      </a>
     </td>
     <td valign="center">
       <b>AWS re/Start Graduate</b><br>
       <i>Amazon Web Services Training and Certification</i><br>
-      Emitido em: Fevereiro de 2026
+      Emitido em: Fevereiro de 2026<br>
+      👉 <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659" target="_blank">Verificar Credencial</a>
     </td>
   </tr>
 </table>
