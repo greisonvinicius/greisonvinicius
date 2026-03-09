@@ -5,12 +5,12 @@
     <td valign="top" width="60%">
       <h2>Sobre mim</h2>
       <p>
-        Estudante de Ciência da Computação (3/8) focado em construir projetos, 
+        Estudante de Sistemas de informação e Analise e Desenvolvimento de Sistemas (6/8) focado em construir projetos, 
         explorar novos conceitos e aplicar a tecnologia para resolver problemas reais.
       </p>
       <ul>
-        <li>☁️ <b>Foco:</b> Cloud Computing & Desenvolvimento Web</li>
-        <li>🎓 <b>Educação:</b> Graduando em Ciência da Computação</li>
+        <li>☁️ <b>Foco:</b> Cloud Computing & Desenvolvimento</li>
+        <li>🎓 <b>Educação:</b> Graduando em Sistemas de informação e Analise e Desenvolvimento de Sistemas</li>
         <li>🚀 <b>Comunidade:</b> Integrante da LAICT (Liga Acadêmica de Inovação)</li>
         <li>📍 <b>Localização:</b> Rio de Janeiro, Brasil</li>
       </ul>
