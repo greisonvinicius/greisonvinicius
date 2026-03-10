@@ -41,7 +41,7 @@
     <td width="150" align="center" valign="center">
       <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659" target="_blank">
         <!-- Substitua 'aws-restart.jpg' pelo nome exato do arquivo que você subiu -->
-        <img src="aws-restart.jpg" width="120" alt="AWS re/Start Graduate Badge" />
+        <img src="https://github.com/user-attachments/assets/8af4bfe5-0251-4f4c-9228-338a9a406c83" /> width="120" alt="AWS re/Start Graduate Badge" />
       </a>
     </td>
     <td valign="center">
