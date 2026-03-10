@@ -57,7 +57,7 @@
 
 ## 📊 Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=greisonvinicius&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=greisonvinicius&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=greisonvinicius&theme=radical" alt="GitHub Streak">
