@@ -10,7 +10,7 @@
         tecnologia para resolver problemas reais.
       </p>
       <ul>
-        <li>☁️ <b>Foco:</b> Cloud Computing & Desenvolvimento Fullstack</li>
+        <li>☁️ <b>Foco:</b> Cloud Computing & Desenvolvimento </li>
         <li>🎓 <b>Educação:</b> Graduando em Sistemas de Informação e ADS</li>
         <li>🚀 <b>Comunidade:</b> Integrante da LAICT (Liga Acadêmica de Inovação)</li>
         <li>📍 <b>Localização:</b> Rio de Janeiro, Brasil</li>
