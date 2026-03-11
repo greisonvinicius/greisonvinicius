@@ -33,7 +33,6 @@
 </table>
 
 ---
-
 ## 🏆 Certificações
 
 <table border="0">
