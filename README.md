@@ -51,11 +51,7 @@
   </tr>
 
   <tr>
-    <td width="150" align="center" valign="center">
-      <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">
-        <img src="https://github.com/user-attachments/assets/71337f40-5b5a-4700-9e66-1c230678832a" width="120" alt="AWS Certified Cloud Practitioner" />
-      </a>
-    </td>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44f9eb6e-30dd-4c8e-91db-c5656a2ee659" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <td valign="center">
       <b>AWS Certified Cloud Practitioner</b><br>
       <i>Amazon Web Services Training and Certification</i><br>
