@@ -48,6 +48,17 @@
       <i>Amazon Web Services Training and Certification</i><br>
       Emitido em: Fevereiro de 2026<br>
       👉 <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659" target="_blank">Verificar Credencial</a>
+
+       <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">
+        <!-- Substitua 'aws-CloudPractitioner.jpg' pelo nome exato do arquivo que você subiu -->
+        <img src="https://github.com/greisonvinicius/greisonvinicius/issues/7#issue-4145867107" width="120" alt="AWS re/Start Cloud Practitioner" />
+      </a>
+    </td>
+    <td valign="center">
+      <b>AWS Certified Cloud Practitioner</b><br>
+      <i>AWS Certified Cloud Practitioner</i><br>
+      Emitido em: Março de 2026<br>
+      👉 <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">Verificar Credencial</a>
     </td>
   </tr>
 </table>
