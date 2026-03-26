@@ -38,8 +38,7 @@
 <table border="0">
   <tr>
     <td width="150" align="center" valign="center">
-      <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659" target="_blank">
-        <!-- Substitua 'aws-restart.jpg' pelo nome exato do arquivo que você subiu -->
+      <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659/public_url" target="_blank">
         <img src="https://github.com/user-attachments/assets/8af4bfe5-0251-4f4c-9228-338a9a406c83" width="120" alt="AWS re/Start Graduate Badge" />
       </a>
     </td>
@@ -47,22 +46,24 @@
       <b>AWS re/Start Graduate</b><br>
       <i>Amazon Web Services Training and Certification</i><br>
       Emitido em: Fevereiro de 2026<br>
-      👉 <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659" target="_blank">Verificar Credencial</a>
+      👉 <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659/public_url" target="_blank">Verificar Credencial</a>
+    </td>
+  </tr>
 
-       <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">
-        <!-- Substitua 'aws-CloudPractitioner.jpg' pelo nome exato do arquivo que você subiu -->
-        <img src="https://github.com/greisonvinicius/greisonvinicius/issues/7#issue-4145867107" width="120" alt="AWS re/Start Cloud Practitioner" />
+  <tr>
+    <td width="150" align="center" valign="center">
+      <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">
+        <img src="https://github.com/user-attachments/assets/71337f40-5b5a-4700-9e66-1c230678832a" width="120" alt="AWS Certified Cloud Practitioner" />
       </a>
     </td>
     <td valign="center">
       <b>AWS Certified Cloud Practitioner</b><br>
-      <i>AWS Certified Cloud Practitioner</i><br>
+      <i>Amazon Web Services Training and Certification</i><br>
       Emitido em: Março de 2026<br>
       👉 <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">Verificar Credencial</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 Estatísticas
