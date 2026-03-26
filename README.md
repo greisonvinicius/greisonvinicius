@@ -49,16 +49,6 @@
       👉 <a href="https://www.credly.com/badges/44f9eb6e-30dd-4c8e-91db-c5656a2ee659/public_url" target="_blank">Verificar Credencial</a>
     </td>
   </tr>
-
-  <tr>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44f9eb6e-30dd-4c8e-91db-c5656a2ee659" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <td valign="center">
-      <b>AWS Certified Cloud Practitioner</b><br>
-      <i>Amazon Web Services Training and Certification</i><br>
-      Emitido em: Março de 2026<br>
-      👉 <a href="https://www.credly.com/badges/4715b807-52b6-472e-b3a6-db03f8612b59/public_url" target="_blank">Verificar Credencial</a>
-    </td>
-  </tr>
 </table>
 ---
 
